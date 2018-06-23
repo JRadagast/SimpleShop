@@ -30,4 +30,9 @@ No arquivo ShopServlet.java:
             d_targetemail = "receptor@gmail.com";
 
 
+## Banco de dados:
+
+Use os arquivos na pasta: BD para criar e adicionar os dados no banco.
+
+
 Fazendo isso o projeto deve funcionar.
