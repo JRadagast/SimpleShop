@@ -34,5 +34,6 @@ No arquivo ShopServlet.java:
 
 Use os arquivos na pasta: BD para criar e adicionar os dados no banco.
 
+As imagens incluadas no banco de dados estão hospedadas no imgur.
 
 Fazendo isso o projeto deve funcionar.
